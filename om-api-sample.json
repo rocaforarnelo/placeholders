@@ -1,0 +1,630 @@
+{
+    "pages":[
+        {
+            "id":1,
+            "title":"Welcome",
+            "body":"<p><b><span style=\"font-size: 18px;\">1. </span><span style=\"font-family: Tahoma;\">Definitions &amp; Interpretation Lorem ipsum dolo</span><span style=\"font-size: 18px;\">r&nbsp;</span></b><span style=\"font-size: 18px;\">sit amet, consectetur adipiscing elit. Duis semper nibh felis, sed molestie felis egestas et. Vestibulum lectus quam, tempus in sapien vulputate, vestibulum varius nulla. Proin bibendum auctor tortor, a lacinia arcu rutrum id.</span></p><p><b>2.<span style=\"font-family: Verdana;\"> <span style=\"font-family: \" comic=\"\" sans=\"\" ms\";\"=\"\">General use of Services and/or access of Platform Lorem</span></span></b>&nbsp;ipsum dolor sit amet, consectetur <span style=\"font-size: 18px;\">adipiscing elit</span>. Duis semper nibh felis, sed molestie felis egestas et. Vestibulum lectus quam, tempus in sapien vulputate, vestibulum varius nulla. Proin bibendum auctor tortor, a lacinia arcu rutrum id. Quisque ligula odio, suscipit non velit eu, scelerisque tempor quam. Vestibulum lacinia auctor leo in dapibus. Pellentesque bibendum augue vitae eros varius fermentum. Mauris augue risus, eleifend eu dui nec, posuere dictum elit. Etiam velit odio, lobortis ut tempus eu, lobortis quis ligula. Nunc sagittis ac sapien in molestie. Sed eleifend pellentesque elit, a pellentesque nisi fringilla et. Suspendisse potenti. Duis elementum iaculis mi, eget laoreet nunc mattis at. Proin vel dolor id arcu eleifend sodales. Integer ornare, eros sit amet tincidunt faucibus, justo neque commodo augue, porta mattis leo massa vel sem. Ut ac varius lorem, at vulputate nulla. Maecenas ultricies massa et consectetur mattis. a. Maecenas sit amet placerat arcu, in tempus diam. b. Etiam lectus nisl, porta sed tempus nec, facilisis hendrerit orci. c. Nunc consectetur pretium nulla, nec fermentum felis porttitor rutrum. Curabitur et nibh justo. Mauris scelerisque lobortis dui, nec cursus libero. d. Suspendisse eget odio sed ante pellentesque pellentesque eu sit amet mi. Nam ac elementum odio. e. Morbi dapibus laoreet congue. Proin consequat ipsum orci. Vestibulum congue lacus nulla, sit amet sollicitudin nunc efficitur sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent auctor turpis id turpis dictum, ut vestibulum ante tincidunt. In tempus risus ac neque faucibus, non elementum ligula pretium. Proin ac dictum tortor. Aenean a sem dictum, ultricies diam sed, iaculis felis. Morbi vulputate viverra augue, vel convallis mauris. Phasellus venenatis justo nec mauris ullamcorper aliquet. Morbi pharetra mi erat, id mollis dolor rutrum congue. Nulla a dapibus quam, congue sollicitudin urna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam a purus nulla. Phasellus mauris neque, ultricies et mauris ac, facilisis interdum tellus. Proin ultricies in ante et maximus. Nunc vestibulum vehicula eros, non congue eros placerat quis. Curabitur vel felis ac ipsum vehicula venenatis. Curabitur vitae maximus augue, in commodo quam. Etiam malesuada fermentum fermentum. Maecenas tincidunt auctor mi, ut rutrum purus gravida sit amet. Pellentesque ut leo eget dolor porta sodales.</p>",
+            "note":null,
+            "sub_pages":[
+                
+            ]
+        },
+        {
+            "id":2,
+            "title":"How To Use",
+            "body":"<h1 style=\"text-align: right; \"><b style=\"font-style: italic;\">test only</b></h1><ol><li>asdadsd</li><li>dfsdf</li><li>asdad</li></ol><p><br></p><ul><li>asdasd</li><li>thghgfh</li></ul>",
+            "note":"<p>test onlyx</p>",
+            "sub_pages":[
+                
+            ]
+        },
+        {
+            "id":3,
+            "title":"About",
+            "body":"",
+            "note":null,
+            "sub_pages":[
+                {
+                    "id":5,
+                    "title":"The App",
+                    "body":"",
+                    "note":null,
+                    "parent_id":3,
+                    "created_at":"2020-09-23T07:25:00.000000Z",
+                    "updated_at":"2020-09-23T07:25:00.000000Z",
+                    "sub_pages":[
+                        
+                    ]
+                },
+                {
+                    "id":6,
+                    "title":"Basis For Calculation",
+                    "body":"<p>Test contents</p>",
+                    "note":null,
+                    "parent_id":3,
+                    "created_at":"2020-09-23T07:25:00.000000Z",
+                    "updated_at":"2020-09-24T03:13:31.000000Z",
+                    "sub_pages":[
+                        
+                    ]
+                },
+                {
+                    "id":7,
+                    "title":"Contact",
+                    "body":"",
+                    "note":null,
+                    "parent_id":3,
+                    "created_at":"2020-09-23T07:25:00.000000Z",
+                    "updated_at":"2020-09-23T07:25:00.000000Z",
+                    "sub_pages":[
+                        
+                    ]
+                },
+                {
+                    "id":8,
+                    "title":"Disclaimer / Data Privacy Act",
+                    "body":"",
+                    "note":null,
+                    "parent_id":3,
+                    "created_at":"2020-09-23T07:25:00.000000Z",
+                    "updated_at":"2020-09-23T07:25:00.000000Z",
+                    "sub_pages":[
+                        
+                    ]
+                },
+                {
+                    "id":9,
+                    "title":"Imprint",
+                    "body":"",
+                    "note":null,
+                    "parent_id":3,
+                    "created_at":"2020-09-23T07:25:00.000000Z",
+                    "updated_at":"2020-09-23T07:25:00.000000Z",
+                    "sub_pages":[
+                        
+                    ]
+                }
+            ]
+        },
+        {
+            "id":4,
+            "title":"Additional WinS Resources",
+            "body":"<p>Definitions &amp; Interpretation Lorem ipsum dolor<b>&nbsp;</b>sit amet, consectetur adipiscing elit. Duis semper nibh felis, sed molestie felis egestas et. Vestibulum lectus quam, tempus in sapien vulputate, vestibulum varius nulla. Proin bibendum auctor tortor, a lacinia arcu rutrum id.<br></p>",
+            "note":null,
+            "sub_pages":[
+                
+            ]
+        }
+    ],
+    "characteristics":[
+        {
+            "id":1,
+            "title":"Number of students",
+            "value":"[user_input]",
+            "variable_key":"no_of_students"
+        },
+        {
+            "id":2,
+            "title":"Number of days per school year",
+            "value":"[user_input]",
+            "variable_key":"no_of_days_per_school_year"
+        },
+        {
+            "id":3,
+            "title":"Number of toilets",
+            "value":"[user_input]",
+            "variable_key":"no_of_toilets"
+        },
+        {
+            "id":4,
+            "title":"Number of classrooms & laboratories",
+            "value":"[user_input]",
+            "variable_key":"no_of_classrooms"
+        },
+        {
+            "id":14,
+            "title":"No. of Hallways",
+            "value":"[user_input]",
+            "variable_key":"no_of_hallways"
+        }
+    ],
+    "constants":[
+        {
+            "id":5,
+            "title":"Number of toilet blocks",
+            "value":"[no_of_toilets] / 3",
+            "variable_key":"no_of_toilet_blocks"
+        },
+        {
+            "id":6,
+            "title":"Number of areas for disinfecting kit",
+            "value":"[no_of_classrooms] + [no_of_toilet_blocks] + 3",
+            "variable_key":"no_of_areas_for_disinfecting_kit"
+        },
+        {
+            "id":7,
+            "title":"Number of areas for detergent",
+            "value":"[no_of_classrooms] + [no_of_toilet_blocks] + 2",
+            "variable_key":"no_of_areas_for_detergent"
+        },
+        {
+            "id":8,
+            "title":"Number of areas for bleach",
+            "value":"[no_of_classrooms] + [no_of_toilet_blocks] + 4",
+            "variable_key":"no_of_areas_for_bleach"
+        }
+    ],
+    "informations":[
+        {
+            "id":1,
+            "title":"Drinking water per student per day (L)",
+            "unit":1,
+            "frequency":"per_day",
+            "variable_key":"drinking_water_per_student_per_day_l"
+        },
+        {
+            "id":2,
+            "title":"Drinking water per student per day (m3)",
+            "unit":0.001,
+            "frequency":"per_day",
+            "variable_key":"drinking_water_per_student_per_day_m3"
+        },
+        {
+            "id":3,
+            "title":"Cleaning water per student per day (L)",
+            "unit":5,
+            "frequency":"per_day",
+            "variable_key":"cleaning_water_per_student_per_day_l"
+        },
+        {
+            "id":4,
+            "title":"Cleaning water per student per day (m3)",
+            "unit":0.005,
+            "frequency":"per_day",
+            "variable_key":"cleaning_water_per_student_per_day_m3"
+        },
+        {
+            "id":5,
+            "title":"Required bleach (ml) per toilet, per day",
+            "unit":30,
+            "frequency":"per_day",
+            "variable_key":"required_bleach_per_toilet_per_day"
+        },
+        {
+            "id":6,
+            "title":"Required detergent (grams) per area, per day",
+            "unit":53,
+            "frequency":"per_day",
+            "variable_key":"required_detergent_per_area_per_day"
+        },
+        {
+            "id":7,
+            "title":"Clinic kit per toilet block per year",
+            "unit":1,
+            "frequency":"per_year",
+            "variable_key":"clinic_kit_per_toilet_block_per_year"
+        },
+        {
+            "id":8,
+            "title":"Clinic kit per classroom / laboratory",
+            "unit":1,
+            "frequency":"per_year",
+            "variable_key":"clinic_kit_per_classroom_laboratory"
+        },
+        {
+            "id":9,
+            "title":"Toilet user kit per toilet per year",
+            "unit":1,
+            "frequency":"per_year",
+            "variable_key":"toilet_user_kit_per_toilet_per_year"
+        },
+        {
+            "id":10,
+            "title":"Disinfecting kit per area per year",
+            "unit":1,
+            "frequency":"per_year",
+            "variable_key":"disinfecting_kit_per_area_per_year"
+        },
+        {
+            "id":11,
+            "title":"Bleach (ml) per area per day",
+            "unit":5,
+            "frequency":"per_day",
+            "variable_key":"bleach_ml_per_area_per_day"
+        },
+        {
+            "id":12,
+            "title":"Soap (g) per student per day",
+            "unit":2.5,
+            "frequency":"per_day",
+            "variable_key":"soap_per_student_per_day"
+        },
+        {
+            "id":13,
+            "title":"Toothpaste in (75-90ml) per student per year",
+            "unit":1,
+            "frequency":"per_year",
+            "variable_key":"toothpaste_per_student_per_year"
+        }
+    ],
+    "categories":[
+        {
+            "id":1,
+            "title":"Annual water supply",
+            "variable_key":"annual_water_supply"
+        },
+        {
+            "id":2,
+            "title":"Cleaning and disinfecting",
+            "variable_key":"cleaning_and_disinfecting"
+        },
+        {
+            "id":3,
+            "title":"Hygiene products",
+            "variable_key":"hygiene_products"
+        },
+        {
+            "id":4,
+            "title":"Test",
+            "variable_key":"test"
+        }
+    ],
+    "costs":[
+        {
+            "id":1,
+            "type":"fixed",
+            "title":"Drinking water cost (L)",
+            "note":null,
+            "variable_key":"drinking_water_cost_l",
+            "category_key":"annual_water_supply",
+            "information_key":"drinking_water_per_student_per_day_l",
+            "value":"[no_of_days_per_school_year] * [no_of_students] * [1] * [drinking_water_cost_l]",
+            "products":[
+                
+            ]
+        },
+        {
+            "id":2,
+            "type":"fixed",
+            "title":"Drinking water cost (m3)",
+            "note":null,
+            "variable_key":"drinking_water_cost_m3",
+            "category_key":"annual_water_supply",
+            "information_key":"drinking_water_per_student_per_day_m3",
+            "value":"[no_of_days_per_school_year] * [no_of_students] * [0.001] * [drinking_water_cost_m3]",
+            "products":[
+                
+            ]
+        },
+        {
+            "id":3,
+            "type":"fixed",
+            "title":"Cleaning water cost (L)",
+            "note":null,
+            "variable_key":"cleaning_water_cost_l",
+            "category_key":"annual_water_supply",
+            "information_key":"cleaning_water_per_student_per_day_l",
+            "value":"[no_of_days_per_school_year] * [no_of_students] * [5] * [cleaning_water_cost_l]",
+            "products":[
+                
+            ]
+        },
+        {
+            "id":4,
+            "type":"fixed",
+            "title":"Cleaning water cost (m3)",
+            "note":null,
+            "variable_key":"cleaning_water_cost_m3",
+            "category_key":"annual_water_supply",
+            "information_key":"cleaning_water_per_student_per_day_m3",
+            "value":"[no_of_days_per_school_year] * [no_of_students] * [0.005] * [cleaning_water_cost_m3]",
+            "products":[
+                
+            ]
+        },
+        {
+            "id":5,
+            "type":"kit",
+            "title":"Toilet user kit",
+            "note":"test",
+            "variable_key":"toilet_user_kit",
+            "category_key":"cleaning_and_disinfecting",
+            "information_key":"toilet_user_kit_per_toilet_per_year",
+            "value":"[1] * [no_of_toilets] * [1] * [toilet_user_kit]",
+            "products":[
+                {
+                    "id":1,
+                    "cost_id":5,
+                    "title":"1 Trash bin",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"1_trash_bin"
+                },
+                {
+                    "id":2,
+                    "cost_id":5,
+                    "title":"1 Toilet brush",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"1_toilet_brush"
+                },
+                {
+                    "id":3,
+                    "cost_id":5,
+                    "title":"1 Mug/Dipper",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"1_mug_dipper"
+                }
+            ]
+        },
+        {
+            "id":6,
+            "type":"kit",
+            "title":"Cleaning kit (toilet block)",
+            "note":null,
+            "variable_key":"cleaning_kit_toilet_block",
+            "category_key":"cleaning_and_disinfecting",
+            "information_key":"clinic_kit_per_toilet_block_per_year",
+            "value":"[1] * [no_of_toilet_blocks] * [1] * [cleaning_kit_toilet_block]",
+            "products":[
+                {
+                    "id":4,
+                    "cost_id":6,
+                    "title":"1 pc Floor brush/mop",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"1_pc_floor_brush_mop_toilet_block"
+                },
+                {
+                    "id":5,
+                    "cost_id":6,
+                    "title":"2 pcs of Brooms",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"2_pcs_of_brooms"
+                },
+                {
+                    "id":6,
+                    "cost_id":6,
+                    "title":"1 pcs 20 L bucket",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"1_pcs_20_l_bucket"
+                },
+                {
+                    "id":7,
+                    "cost_id":6,
+                    "title":"10 pcs of sponges / cleaning cloth",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"10_pcs_of_sponges_cleaning_cloth"
+                },
+                {
+                    "id":8,
+                    "cost_id":6,
+                    "title":"1 pc Rubber boots",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"1_pc_rubber_boots"
+                }
+            ]
+        },
+        {
+            "id":7,
+            "type":"kit",
+            "title":"Cleaning kit (classroom)",
+            "note":null,
+            "variable_key":"cleaning_kit_classroom",
+            "category_key":"cleaning_and_disinfecting",
+            "information_key":"clinic_kit_per_classroom_laboratory",
+            "value":"[1] * [no_of_classrooms] * [1] * [cleaning_kit_classroom]",
+            "products":[
+                {
+                    "id":9,
+                    "cost_id":7,
+                    "title":"1 pc Floor brush/mop",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"1_pc_floor_brush_mop_classroom"
+                },
+                {
+                    "id":10,
+                    "cost_id":7,
+                    "title":"1 pc 20L Bucket",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"1_pc_20l_bucket"
+                },
+                {
+                    "id":11,
+                    "cost_id":7,
+                    "title":"2 pcs of Soft Broom",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"2_pcs_of_soft_broom"
+                },
+                {
+                    "id":12,
+                    "cost_id":7,
+                    "title":"1 pc Dust pan",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"1_pc_dust_pan"
+                },
+                {
+                    "id":13,
+                    "cost_id":7,
+                    "title":"1 Trash bin with cover",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"1_trash_bin_with_cover"
+                }
+            ]
+        },
+        {
+            "id":8,
+            "type":"kit",
+            "title":"Disinfection kit",
+            "note":null,
+            "variable_key":"disinfection_kit",
+            "category_key":"cleaning_and_disinfecting",
+            "information_key":"disinfecting_kit_per_area_per_year",
+            "value":"[1] * [no_of_areas_for_disinfecting_kit] * [1] * [disinfection_kit]",
+            "products":[
+                {
+                    "id":14,
+                    "cost_id":8,
+                    "title":"10 pcs of Reusable face mask (Cloth)",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"10_pcs_of_reusable_face_mask_cloth"
+                },
+                {
+                    "id":15,
+                    "cost_id":8,
+                    "title":"5 pcs of Reusable hand gloves (Rubber or Latex)",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"5_pcs_of_reusable_hand_gloves_rubber_or_latex"
+                },
+                {
+                    "id":16,
+                    "cost_id":8,
+                    "title":"2 pcs of 500 mL Pump dispenser",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"2_pcs_of_500_ml_pump_dispenser"
+                },
+                {
+                    "id":17,
+                    "cost_id":8,
+                    "title":"20 pcs of cleaning cloth / Microfiber cloth",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"20_pcs_of_cleaning_cloth_microfiber_cloth"
+                },
+                {
+                    "id":18,
+                    "cost_id":8,
+                    "title":"2 pcs of heavy duty apron (Rubber or Latex)",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"2_pcs_of_heavy_duty_apron_rubber_or_latex"
+                },
+                {
+                    "id":19,
+                    "cost_id":8,
+                    "title":"2 pcs of acrylic face shield",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"2_pcs_of_acrylic_face_shield"
+                }
+            ]
+        },
+        {
+            "id":9,
+            "type":"product_with_breakdown",
+            "title":"Cost of detergent per gram",
+            "note":null,
+            "variable_key":"cost_of_detergent_per_gram",
+            "category_key":"cleaning_and_disinfecting",
+            "information_key":"required_detergent_per_area_per_day",
+            "value":"[no_of_days_per_school_year] * [no_of_areas_for_detergent] * [53] * [cost_of_detergent_per_gram]",
+            "products":[
+                {
+                    "id":20,
+                    "cost_id":9,
+                    "title":"Cost of purchased detergent",
+                    "breakdown_title":"Weight in grams of purchased detergent",
+                    "breakdown_placeholder":"weight in grams",
+                    "breakdown_result_label":"per gram",
+                    "variable_key":"cost_of_purchased_detergent"
+                }
+            ]
+        },
+        {
+            "id":10,
+            "type":"product_with_breakdown",
+            "title":"Cost of bleach per mL",
+            "note":null,
+            "variable_key":"cost_of_bleach_per_ml",
+            "category_key":"cleaning_and_disinfecting",
+            "information_key":"required_bleach_per_toilet_per_day",
+            "second_information_key":"bleach_ml_per_area_per_day",
+            "value":"[no_of_days_per_school_year] * [no_of_toilets] * [30] * [cost_of_bleach_per_ml] + [no_of_days_per_school_year] * [no_of_areas_for_bleach] * [5] * [cost_of_bleach_per_ml]",
+            "products":[
+                {
+                    "id":21,
+                    "cost_id":10,
+                    "title":"Cost of purchased household bleach",
+                    "breakdown_title":"Volume in mL of household bleach",
+                    "breakdown_placeholder":"volume in mL",
+                    "breakdown_result_label":"per mL",
+                    "variable_key":"cost_of_purchased_household_bleach"
+                }
+            ]
+        },
+        {
+            "id":11,
+            "type":"product_with_breakdown",
+            "title":"Cost of soap per gram",
+            "note":null,
+            "variable_key":"cost_of_soap_per_gram",
+            "category_key":"hygiene_products",
+            "information_key":"soap_per_student_per_day",
+            "value":"[no_of_days_per_school_year] * [no_of_students] * [2.5] * [cost_of_soap_per_gram]",
+            "products":[
+                {
+                    "id":22,
+                    "cost_id":11,
+                    "title":"Cost of soap bar",
+                    "breakdown_title":"Weight in grams of soap",
+                    "breakdown_placeholder":"weight in grams",
+                    "breakdown_result_label":"per gram",
+                    "variable_key":"cost_of_soap_bar"
+                }
+            ]
+        },
+        {
+            "id":12,
+            "type":"product_without_breakdown",
+            "title":"Toothpaste",
+            "note":"test",
+            "variable_key":"toothpaste_cost",
+            "category_key":"hygiene_products",
+            "information_key":"toothpaste_per_student_per_year",
+            "value":"[1] * [no_of_students] * [1] * [toothpaste_cost]",
+            "products":[
+                {
+                    "id":23,
+                    "cost_id":12,
+                    "title":"Cost of toothpaste (75ml-90ml)",
+                    "breakdown_title":null,
+                    "breakdown_placeholder":null,
+                    "breakdown_result_label":null,
+                    "variable_key":"cost_of_toothpaste_75ml_90ml"
+                }
+            ]
+        }
+    ]
+}
